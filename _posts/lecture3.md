@@ -1,8 +1,3 @@
----
-layout: post
-title: Documentation
----
-
 #Lecture 3: What is New Weapon? 
 
 - Slides: [Lecture 3](https://tchoi8.github.io/poetic-computation-16/slides/week3.html)
