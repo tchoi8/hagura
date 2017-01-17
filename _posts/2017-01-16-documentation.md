@@ -1,20 +1,21 @@
 ---
 layout: post
-title: Documentation
+title:  What is New Weapon? 
 ---
 
-#Lecture 3: What is New Weapon? 
+# Lecture 3: What is New Weapon? 
 
 - Slides: [Lecture 3](https://tchoi8.github.io/poetic-computation-16/slides/week3.html)
 - Readings: 24/7: Late Capitalism and the Ends of Sleep by Jonathan Crary
 - Postscript on the Societies of Control by Gilles Delueze
 - Special guest: [Francis Tseng](http://frnsys.com/)
+- Lecture Date: June 15, 2016
  
 
 In this lecture, I examine the concept of Control Society to think about the management of contemporary time and space. I ask the students if it is possible to imagine a ‘New Weapon’ by subverting the mechanisms of surveillance. 
 
 
-##Call center, border control, casino 
+## Call center, border control, casino 
 
 
 I want to start today’s lecture by thinking about the call centers. Let's imagine your perfectly orchestrated life is disrupted when you lose your credit card and have to contact the call center. The call center is a place with no memory, you have to constantly repeat yourself and prove your identity. In a sense, it is a blank space that doesn’t remember you and you also don’t know where the call is taking place. “Kafkaesque labyrinth of call centers, a world without memory, where cause and effect connect together in mysterious, unfathomable ways.” In reality, call centers may have a lot of information about you, but the operators can’t access them until you prove your identity. In a sense, we don’t know who the operators are and they don’t know who we are, but they have access to information of where we are and what we do.
@@ -31,7 +32,7 @@ I think we are all familiar with Foucault’s critique of panopticon, a place wh
 
 Deleuze is not a technical philosopher, he is more of a cartographer of technologies, he looks at how systems of repetition and abstraction creates a cultural landscape. He is probably most known for this notion of rhizomatic systems of control. This specific text is a very special writing, written towards the end of his life, and he changes his notion of the radical restructuring of the world to examining the systems of control that we have. He shifts the notion from mechanical control to this notion of code. Recently, within the past five years, there is a renewed interest in this specific text because of the dominance that code has in our daily life.
 
-##Control Society 
+## Control Society 
 
  
 In Deleuze's interpretation, a disciplinary society is a space of 19th-century Capitalism. It is a concentration of production forces and Analogical production. The difference between Analogical and Digital forces of labor is that one is a 'mold' of labor and the other is a 'modulation' of labor. This difference becomes more apparent when we think about our bodies as human forces in production. In 19th-century, being an individual was different from being part of the mass. The capitalists need mass to produce and consume the products. Now, we are dividuals, separated within ourselves. 
@@ -56,16 +57,14 @@ This a good time to think about control and what that means for us historically.
 Building from Crary and Deleuze's concepts, we can think of the society of control, not as a distinctly different thing from the society of discipline but as layers that are on top of it amplifying the control mechanisms. This shift leads to an extreme personalization and individuation of machine interfaces, such as operating systems and the addiction to communication, we are compelled to communicate with each other constantly. 
 
 
-##Utopia as such
+## Utopia as such
 
 Utopia is a place of no place, it is a place that we cannot go, in Thomas Moore and many others imagined. Contemporary artists often consider Utopia as a direction, as in Steve Lamber’s poster provocatives. Is utopia as a destination not a realistic notion? Utopia, as a concept, has been a great source of inspiration for many artists. 
 
 
 Instead of thinking about utopia as a place, let’s think about utopia in terms of periodization. Does anyone know what locative media means? 
 
-
-
-(No answer) 
+Students:(No answer) 
 
 Locative media is another word for location based media, this is around 2002 or 2003 when gps was becoming really available to consumers and locative media was kind of this shift in media arts because places like Nokia and Sony were supporting artists using GPS. I started working with technology around that time and everyone was so obsessed with locative media, like we will put GPS on anything and it will be art. As a society we like to distinguish the present and the near future, like was is the new era? The digital era, the Gutenberg era. This usually has a notion of optimism, that new technology will bring new solutions to the problems that we have had for such a long time. But there is a pattern that happens with this discourse, it’s like this very bright california mediaology that the progress in technology will lead to progress in society. The reality is that this is very much a strong marketing strategy, but there is a cycle that happens. I think it this planned obsolescence is an effect of that. 
 
@@ -118,7 +117,7 @@ Student 3: And I have to talk about the complicity of designers and architects t
 Student 2: Also, how uncomfortable it is as an outsider to go into some of these places that are telling this communal experience and you utopia, like facebook, everything is community oriented. They all want to be in love and happy in this small community, but there are schools that are underfunded and when you leave as an employee, you’re not sure if you feel guilty for all of the things you are receiving and how can you go through life - or you just ignore it. So it creates this weird cycle, psychotic break between people.
 
 
-##Privacy
+## Privacy
 
   
 Can we define privacy without our words? (I gave about 5 minutes for students to think and write their definition of privacy) 
@@ -195,7 +194,7 @@ Student 2: So when these conversations arise, I always get to a point where I’
 
 Francis: So actually, this is part of a broader question called the "Reconfiguration Thesis" so this is often a similar thing that is discussed relating to logistics and supply chain management. Walmart and Amazon and all these other companies have these really sophisticated ways of managing who is producing and getting these raw materials. So the reconfiguration thesis in that context asks can we take these technologies that are geared toward this globalized capitalist production and use it towards a socially progressive ends. So I think, yeah, we can ask a similar question of the surveillance infrastructure, can it be used in a different way. One project that I like to connect it to is The Project Cybersyn. Cybersyn was this project that Salvador Allende, who was a democratically elected Socialist president in Chile in the 60s, he had this really grand vision to create a cybernetically planned economy. And this was back when Chile literally had five computers and IBM refused to sell them stuff because they were afraid that Allende would nationalize their company. A product like that which is driven and workers through the cybernetic network manage the economy democratically would actually rely on infrastructure some too, what we see as mass surveillance. And some of that is the same infrastructure that powers Walmart logistics and makes them so efficient at producing things and restocking. That’s one possible positive use for this thing, but it still has its own issues and stuff.
 
-##Drone landscapes 
+## Drone landscapes 
 
 Moving forward, this notion of surveillance, control, and AI is usually talked about in extreme cases and scenarios, such as governments surveilling your own documents or AI’s making decisions for drone strikes as a preemptive measure. But how do we relate that to the reality that we live in? James Bridle’s Drone Shadows project where he maps out the shadow of the drone as if it were flying over. I like to think about this in the western metropolitan reality. It’s not only western but metropolitian. Even in places like Southeast Asia, where we think of as a place of exploit, there are different layers of reality that happens that the governing class -- even in China there are metropolitian, democratic areas as well as oppressive areas so it is not only a west and east method. Some projects like Drone Stream are very poignant strategy to connect. This project tweets every time a US drone attacks Afghanistan or other places, it tells you where it was and how many people were killed, sometimes there are pictures and sometimes not. This was started as an iPhone app and it was live for a few years until Apple banned it. It is deeply troubling to get these text messages, right? But it is an attempt to connect to the realities that we don’t see.
 
@@ -203,7 +202,7 @@ One of the students of SFPC few years ago made a project that was music from dro
 
 So this is the question for today: what is the New Weapon? It is a two-fold questions, what is the new weapon govern us and what is the weapon that we have as a device to approach this? Two examples that I think will lead us to more is a counter-surveillance and obfuscation. Obfuscation means that you are intentionally giving so much data that the data becomes meaningless, making the data dirty and corrupt. 
 
-##Counter-surveillance and obfuscation
+## Counter-surveillance and obfuscation
 
 A little bit about my own project in 2006, Shoot Me If You Can started when the phones first came with cameras. I had this project where a group of players were running around an urban space in Seoul and Tokyo and other places. The goal was to take a picture of other team members and send it to the multimedia message and the human operators are checking all the images that are being shot and if they can recognize it, then they are shot and taken out of the game. So it is like a first person shooting game in real life. We had this absurd situation where adults were becoming children and playing video games in real life. The real question for me though was what do these photos mean? Steve Mann has this diagram that I think is amazing. The opposite of surveillance is Sousveillance, which literally is looking back into the camera, using the same technology to empower ourselves. He created lots of prototypes, kind of like earlier versions of of surveillance devices. He is also heralded as the forebear of wearable technology, but he has a very strong political stance to be against surveillance. I think he is actually not happy about Google Glass and all that stuff that happened afterwards.  Surya Mattu, who I mentioned a few times has created a lot of software, this is one of my favorites NSHEYYY. It sifts the wifi network that is around, and what you can do with that these are the beacon IDs that you bring to a service or website called Wiggle and you put that information into a query and then you can map it. He created this as a cartographical tool to empower as opposed to surveil. His point is that these are possible and it is possible for someone like us to use as opposed to being subject to control we should empower ourselves because he is very wary of empowerment without giving actual power. Technology in this case is a power for us to engage with the abstract systems that govern us.
 
