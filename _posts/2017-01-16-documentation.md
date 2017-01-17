@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  What is New Weapon? 
+title:  What is New Weapon?
+permalink: /lectures/ 
 ---
 
 # Lecture 3: What is New Weapon? 
